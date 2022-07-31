@@ -5,5 +5,5 @@ const sumItems = function(array) {
   }
   return sum;
 };
-
+// Poor Socrates would argue there's a way to do this without declaring a sum variable.
 module.exports = sumItems;
